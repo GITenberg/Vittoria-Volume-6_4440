@@ -1,5 +1,5 @@
 _repo: Vittoria-Volume-6_4440
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -28,5 +28,6 @@ subjects:
 - !lcc 'PR'
 - !lcsh 'Historical fiction'
 - !lcsh 'Italy -- History -- Revolution of 1848 -- Fiction'
+- GITenberg
 title: Vittoria — Volume 6
 url: http://www.gutenberg.org/ebooks/4440
